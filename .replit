@@ -1,5 +1,7 @@
 entrypoint = "index.js"
 
+# made by vdoubleu hehe
+
 [interpreter]
 command = [
     "prybar-nodejs",
